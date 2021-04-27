@@ -1,0 +1,7 @@
+entre em seu cmd e digite "yarn dev" para inciar o server;
+npsMail.hbs é o page-email; 
+user "yarn test" oara fazer 1 test com a api;
+se hover agum problema com o starting server 
+---------------------
+entre no server.ts e alerter a port o pardao dele é 3333
+-----------
